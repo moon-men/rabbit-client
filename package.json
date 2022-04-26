@@ -1,5 +1,5 @@
 {
-  "name": "erabbit-client",
+  "name": "rabbit-client",
   "version": "0.1.0",
   "private": true,
   "scripts": {
